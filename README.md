@@ -20,3 +20,8 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
 2. Top 10 Customers:
     Highlighted valuable customers contributing significantly to retail shop sales.
     Provided details such as total sales, quantity bought, and regions.
+
+3. Top 10 Countries by Sales:
+    Designed a bar chart to highlight topperforming countries based on sales.
+    Excluded the United Kingdom due to its outlier status.
+    Used colorcoded bars for easy regional comparison.
