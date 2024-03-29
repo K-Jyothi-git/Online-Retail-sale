@@ -25,3 +25,9 @@ As a  Data Analyst  , I was tasked with creating an interactive Power BI dashboa
     Designed a bar chart to highlight topperforming countries based on sales.
     Excluded the United Kingdom due to its outlier status.
     Used colorcoded bars for easy regional comparison.
+
+
+<hr>
+
+ Page 2: Geographic Insights with Bubble Map
+<div><strong><br /></strong></div><div><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifAJwA5yZ4ZJNwrlYqdKchTFC6_qHZXRiZPmVUkhDQupZ1KmX-E30l2d97bud2g00cl5gQgaizJWOYYeW6Bpj-CCbGeHywcP1cL4biOR2XG0DPgdR7YGdz4ugeeEkgZqxQFKmrGMtS0A8pbJ6zYjXcZ-KUTOdMMqj521n3N9x6coARzFpZ4R2piBYLt3ga/s4150/Untitled_page-0002.jpg" 
