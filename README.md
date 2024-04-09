@@ -36,3 +36,6 @@ style="margin-left: 1em; margin-right: 1em;"><img alt="powerbi Dashboard" border
 1. Geographic Distribution:
     Created a world map with countrywise bubbles proportional to sales.
     Bubbles displayed additional details such as total sales and quantity sold.
+
+2. Interactivity and Filters:
+    Implemented dynamic features, adjusting bubble sizes and colors based on selected filters.
