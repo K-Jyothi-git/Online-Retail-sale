@@ -39,3 +39,8 @@ style="margin-left: 1em; margin-right: 1em;"><img alt="powerbi Dashboard" border
 
 2. Interactivity and Filters:
     Implemented dynamic features, adjusting bubble sizes and colors based on selected filters.
+
+<hr>
+
+<h3>Conclusion: </h3>
+The “Global Online Retail Sales Insights Dashboard” provided a holistic view of the sales landscape. Stakeholders could explore trends, identify key customers, and pinpoint growth areas globally. As a freelancer, I take pride in delivering a powerful tool that empowers datadriven decisions. 🌐💼
